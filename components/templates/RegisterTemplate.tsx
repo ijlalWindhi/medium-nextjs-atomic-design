@@ -1,4 +1,3 @@
-// components/templates/RegisterTemplate.js
 import React from "react";
 import RegisterForm from "@/components/organisms/RegisterForm";
 
